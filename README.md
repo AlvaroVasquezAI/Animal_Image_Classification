@@ -1,4 +1,4 @@
-# Animal Image Classification using Transfer Learning with ResNet50
+# Animal image classification using transfer learning with ResNet50
 
 This project develops an animal image classification system leveraging the ResNet50 model pre-trained on ImageNet. The classifier distinguishes among three animal categories: cats, dogs, and snakes, with a demonstrated high accuracy on a balanced dataset.
 
