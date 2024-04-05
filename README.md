@@ -43,6 +43,12 @@ The project follows a systematic approach:
 
 The model achieved an accuracy of approximately 98.67% on the test dataset, showcasing the effectiveness of transfer learning in image classification.
 
+Predictions:
+
+![Example Image](Results/dog.png "Dog")
+![Example Image](Results/cat.png "Cat")
+![Example Image](Results/snake.png "Snake")
+
 ## Future Work
 
 - Expand the dataset to include more animal classes.
