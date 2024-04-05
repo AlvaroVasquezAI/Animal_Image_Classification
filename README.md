@@ -45,9 +45,9 @@ The model achieved an accuracy of approximately 98.67% on the test dataset, show
 
 Predictions:
 
-![Example Image](Results/dog.png "Dog")
-![Example Image](Results/cat.png "Cat")
-![Example Image](Results/snake.png "Snake")
+<img src="Results/dog.png" alt="Dog" width="300">
+<img src="Results/cat.png" alt="Cat" width="300">
+<img src="Results/snake.png" alt="Snake" width="300">
 
 ## Future Work
 
