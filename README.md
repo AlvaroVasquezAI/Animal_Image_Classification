@@ -12,7 +12,7 @@ This project develops an animal image classification system leveraging the ResNe
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/AlvaroVasquezAI/Animal_image_classification.git
+git clone https://github.com/AlvaroVasquezAI/Animal_Image_Classification.git
 
 2. Navigate to the project directory:
 
